@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: ICAPI_Sanity143624Project
+  gitServerName: mraj_per
+  gitUrl: https://github.com/MeghaRaj69/ICAPI_Sanity143624Project
+  gitUsername: MeghaRaj69
+  gitBranch: main
